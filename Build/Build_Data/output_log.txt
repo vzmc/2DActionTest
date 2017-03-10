@@ -1,0 +1,48 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 765M (ID=0x11e2)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\zyb\Desktop\work\Completed\Unity\2DActionTest\Build\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\zyb\Desktop\work\Completed\Unity\2DActionTest\Build\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\zyb\Desktop\work\Completed\Unity\2DActionTest\Build\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\zyb\Desktop\work\Completed\Unity\2DActionTest\Build\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\zyb\Desktop\work\Completed\Unity\2DActionTest\Build\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\zyb\Desktop\work\Completed\Unity\2DActionTest\Build\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\zyb\Desktop\work\Completed\Unity\2DActionTest\Build\Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\zyb\Desktop\work\Completed\Unity\2DActionTest\Build\Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\zyb\Desktop\work\Completed\Unity\2DActionTest\Build\Build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\zyb\Desktop\work\Completed\Unity\2DActionTest\Build\Build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.127 seconds
+Platform assembly: C:\Users\zyb\Desktop\work\Completed\Unity\2DActionTest\Build\Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\zyb\Desktop\work\Completed\Unity\2DActionTest\Build\Build_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.835659 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.222830 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1598.
+Total: 0.578873 ms (FindLiveObjects: 0.112079 ms CreateObjectMapping: 0.031612 ms MarkObjects: 0.384684 ms  DeleteObjects: 0.029970 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.408278 ms
+
+Unloading 145 unused Assets to reduce memory usage. Loaded Objects now: 289.
+Total: 0.784147 ms (FindLiveObjects: 0.064045 ms CreateObjectMapping: 0.038181 ms MarkObjects: 0.456119 ms  DeleteObjects: 0.224570 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.330902 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1598.
+Total: 0.530428 ms (FindLiveObjects: 0.105510 ms CreateObjectMapping: 0.021759 ms MarkObjects: 0.371135 ms  DeleteObjects: 0.031201 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1d74 -> priority: 1 
+  Thread -> id: 3108 -> priority: 1 
